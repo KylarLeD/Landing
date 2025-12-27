@@ -1,7 +1,7 @@
 # Caesar Cipher Project
 
 ## Overview
-This project is from **FreeCodeCamp**. I created a simple **Caesar cipher** program in Python to explore basic encryption and learn some useful Python tools.  
+This project is from <a href="https://www.freecodecamp.org/" target="_blank" rel="noopener noreferrer">**FreeCodeCamp**</a>. I created a simple **Caesar cipher** program in Python to explore basic encryption and learn some useful Python tools.  
 
 A Caesar cipher is one of the oldest encryption techniques: it shifts each letter in a message by a set number of places in the alphabet.
 
